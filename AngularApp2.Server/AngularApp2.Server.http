@@ -1,0 +1,12 @@
+@AngularApp2.Server_HostAddress = http://localhost:5140
+
+GET {{AngularApp2.Server_HostAddress}}/loans/
+Accept: application/json
+
+###
+
+GET {{AngularApp2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
